@@ -1,5 +1,5 @@
 ---
-title: Avatar Items
+title: Avatar Items Tutorial
 description: Sell community created Avatar items exclusively through your experience.
 ---
 
